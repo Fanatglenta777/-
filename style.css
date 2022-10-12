@@ -16,7 +16,7 @@ body {
   justify-content: start;
   height: 6vh;
 }
-/* .link-to-page {
+.link-to-page {
   font-family: "Ubuntu";
   font-style: normal;
   font-weight: 400;
@@ -24,7 +24,7 @@ body {
   line-height: 28px;
   padding: 60px;
   color: black;
-} */
+}
 .head-wrapper {
   width: 60vw;
   position: relative;
